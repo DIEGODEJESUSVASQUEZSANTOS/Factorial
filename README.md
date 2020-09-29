@@ -11,6 +11,7 @@ se calcula el factorial multiplicando el numero intruducido y repitiendo el meto
 ___________________________________________________________________________________________________________________________________
 Resultados de la compilación del codigo.
 
+
 Se calcula el factorial de 5.
 ![0ff88f96-3bd6-404c-9704-602ecee88fb2](https://user-images.githubusercontent.com/72090852/94590887-05531380-024d-11eb-94f4-b0cc660d2058.jpg)
 
